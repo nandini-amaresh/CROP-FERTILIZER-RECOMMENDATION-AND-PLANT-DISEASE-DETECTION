@@ -1,0 +1,10 @@
+Flask
+tensorflow
+scikit-learn
+numpy
+pandas
+matplotlib
+Pillow
+joblib
+
+
